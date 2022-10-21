@@ -10,6 +10,7 @@ export default function About() {
           <Link href="/">
             <a>&larr; Go Back</a>
           </Link>
+          <div className='bg-blue-400'>1</div>
         </Description>
       </Main>
     </Container>
